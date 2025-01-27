@@ -35,6 +35,7 @@ class A {
     final int num = 10;
     String name;
     public A(String name){
+        //System.out.println("Object created");
         this.name = name;
     }
 
